@@ -1,7 +1,7 @@
 node_modules/
 build/
 tasks/
-lib/
+__lib/
 .idea/
 npm-debug.log
 SquirrelSetup.log
